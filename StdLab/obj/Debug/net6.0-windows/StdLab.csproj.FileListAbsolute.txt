@@ -1,0 +1,17 @@
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.csproj.AssemblyReference.cache
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.Form1.resources
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.csproj.GenerateResource.cache
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.AssemblyInfoInputs.cache
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.AssemblyInfo.cs
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.csproj.CoreCompileInputs.cache
+D:\s code\Lab003\StdLab\bin\Debug\net6.0-windows\StdLab.exe
+D:\s code\Lab003\StdLab\bin\Debug\net6.0-windows\StdLab.deps.json
+D:\s code\Lab003\StdLab\bin\Debug\net6.0-windows\StdLab.runtimeconfig.json
+D:\s code\Lab003\StdLab\bin\Debug\net6.0-windows\StdLab.dll
+D:\s code\Lab003\StdLab\bin\Debug\net6.0-windows\StdLab.pdb
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.dll
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\refint\StdLab.dll
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.pdb
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\StdLab.genruntimeconfig.cache
+D:\s code\Lab003\StdLab\obj\Debug\net6.0-windows\ref\StdLab.dll
